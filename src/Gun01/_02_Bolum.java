@@ -6,5 +6,6 @@ public class _02_Bolum {
 
         System.out.println("   ");
         System.out.println("   ");
+        System.out.println("   ");
     }
 }
